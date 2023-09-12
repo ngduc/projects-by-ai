@@ -1,0 +1,4 @@
+create a HTML-JS tic-tac-toe game, create the game board with divs and css styles.
+- players can click to play
+- different colors for each player
+- show which player wins

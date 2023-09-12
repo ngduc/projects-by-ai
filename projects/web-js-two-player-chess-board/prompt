@@ -1,0 +1,5 @@
+create a HTML-JS chess game, create the game board with divs and css styles.
+- players can take turn to move chess pieces by drag and drop
+- chess pieces are chess unicode symbols with proper font size
+- different colors for each player
+- no need to validate movements

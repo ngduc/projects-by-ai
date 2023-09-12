@@ -1,0 +1,3 @@
+create a HTML-JS webapp with canvas that loads character sprite image with cropping technique.
+- user can control the character with arrow keys
+- when the character changes direction, the appropriate sprite image should be showed

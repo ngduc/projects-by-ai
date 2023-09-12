@@ -1,0 +1,5 @@
+create a snake game in HTML, JS with fullscreen canvas.
+- user can control the snake with arrow keys
+- snake can eat random food to grow longer
+- snake will die when hitting itself
+- show eating scores

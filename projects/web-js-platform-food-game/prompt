@@ -1,0 +1,6 @@
+create a platform game in HTML, JS with fullscreen canvas.
+- user can control the character with arrow keys
+- the screen can scroll
+- character can jump on platforms
+- character can eat random food
+- show scores
